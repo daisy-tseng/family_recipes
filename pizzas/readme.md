@@ -1,4 +1,4 @@
-# Tseng's Family secret recipes
+# Tseng's CLAN secret recipes
 
 Set of recipes as given by my grandma.
 
